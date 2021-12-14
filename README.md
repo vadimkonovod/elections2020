@@ -4,5 +4,5 @@ Thanks to the joint work of the "[Honest People](https://honest-people.by)", "[Z
 The repository contains my analysis and graphical representation based on these protocols.
 __________
 
-Also, dataset and the analysis on kaggle: <br/>
+Belarusian presidential election dataset on **kaggle**: <br/>
 https://www.kaggle.com/vadimkonovod/2020-belarusian-presidential-election
